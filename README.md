@@ -1,8 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-aser&label=Profile%20views&color=0e75b6&style=flat" alt="b-aser" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-aser" alt="b-aser" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aser_tesfaye" target="blank"><img src="https://img.shields.io/twitter/follow/aser_tesfaye?logo=twitter&style=for-the-badge" alt="aser_tesfaye" /></a> </p>
 
@@ -38,6 +36,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aser.tesfaye"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aser.tesfaye" /></a></p><br><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=b-aser" alt="b-aser" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-aser&show_icons=true&locale=en&layout=compact" alt="b-aser" /></p>
 
