@@ -1,4 +1,5 @@
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Aser T. Alemu</h1>
+<h3 align="center">An enthusiast Machine Learning and Python learner from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b-aser&label=Profile%20views&color=0e75b6&style=flat" alt="b-aser" /> </p>
 
