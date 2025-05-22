@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [AI-powered chatbot for summarizing and interacting with multiple PDF documents](https://github.com/b-aser/multi-pdf-chat)
 
-- 🌱 I’m currently learning **Streamlit, MySQL and Flask**
+- 🌱 I’m currently learning **MySQL and Flask**
 
-- 👯 I’m looking to collaborate on **Fine-tuning and telegram-bot creation**
+- 👯 I’m looking to collaborate on **Fine-tuning**
 
 - 🤝 I’m looking for help with [LLM Model fine-tuning](https://github.com/b-aser/jkug3-llm-model)
 
