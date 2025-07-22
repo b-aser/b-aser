@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/aser_tesfaye" target="blank"><img src="https://img.shields.io/twitter/follow/aser_tesfaye?logo=twitter&style=for-the-badge" alt="aser_tesfaye" /></a> </p>
 
-- 🔭 I’m currently working on [AI-powered chatbot for summarizing and interacting with multiple PDF documents](https://github.com/b-aser/multi-pdf-chat)
+- 🔭 I’m currently working on -
 
-- 🌱 I’m currently learning **MySQL and Flask**
+- 🌱 I’m currently learning **Python and Data Analysis**
 
-- 👯 I’m looking to collaborate on **Fine-tuning**
+- 👯 I’m looking to collaborate on **Python Projects**
 
-- 🤝 I’m looking for help with [LLM Model fine-tuning](https://github.com/b-aser/jkug3-llm-model)
+- 🤝 I’m looking for help with [My portfoli](https://github.com/b-aser/potrfolio)
 
 - 📫 How to reach me **asertesfaye@hotmail.com**
 
