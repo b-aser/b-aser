@@ -37,7 +37,6 @@
 <p align="left">
 <a href="https://dev.to/b-aser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="b-aser" height="30" width="40" /></a>
 <a href="https://twitter.com/aser_tesfaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aser_tesfaye" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aser-tesfaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aser-tesfaye" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30117103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30117103" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashert" height="30" width="40" /></a>
 <a href="https://instagram.com/srtsfylm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srtsfylm" height="30" width="40" /></a>
