@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **Alx FE Project**
+- 🔭 I’m currently working on **Resposive Design Projects from freeCodeCamp**
 
 - 🌱 I’m currently learning **React and Tailwind CSS**
 
