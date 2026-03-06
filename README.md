@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **React and Tailwind CSS**
+- 🌱 I’m currently **Busy**
 
 - 📫 How to reach me **asertesfaye@hotmail.com**
 
