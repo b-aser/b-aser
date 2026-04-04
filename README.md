@@ -1,4 +1,3 @@
-- 🌱 I’m currently **Busy**
+- 🌱 I’m currently working on **MERN Project**
 
-- 📫 How to reach me **asertesfaye@hotmail.com**
-
+- 📫 How to reach me **aser.project@gmail.com**
